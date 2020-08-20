@@ -1,16 +1,13 @@
-### Hi there 👋
+<center>
+<a href="https://www.linkedin.com/in/darelover/">
+    <img alt="darelover's Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<!--
-**darelover/darelover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://medium.com/@darelover">
+    <img alt="darelover's Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+</center>
+<center>
+<img alt="darelover's github stats" src="https://github-readme-stats.darelover.vercel.app/api?username=darelover&count_private=true&show_icons=true&hide=stars,contribs&theme=tokyonight" />
+</center>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
